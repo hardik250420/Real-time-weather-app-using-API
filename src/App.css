@@ -1,0 +1,29 @@
+.weatherBg{
+  background: url("https://media.wired.com/photos/5926eb11f3e2356fd800ae1c/master/w_2400,c_limit/Storm-488765827.jpg");
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading{
+  color:white;
+  font-weight: 700;
+}
+.weatherResultBox{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+.weatherIcon{
+  margin-top: 2rem;
+  width: 100px;
+  height: 100px;
+}
+.weatherCity{
+  font-size: 35px;
+}
+.weatherTemp{
+  font-size:55px;
+  font-weight: 700;
+}
