@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Real-time-weather-app-using-API/static/css/main.96cd17a0.css",
+    "main.js": "/Real-time-weather-app-using-API/static/js/main.df6dff7d.js",
+    "static/js/787.13d76ca7.chunk.js": "/Real-time-weather-app-using-API/static/js/787.13d76ca7.chunk.js",
+    "index.html": "/Real-time-weather-app-using-API/index.html",
+    "main.96cd17a0.css.map": "/Real-time-weather-app-using-API/static/css/main.96cd17a0.css.map",
+    "main.df6dff7d.js.map": "/Real-time-weather-app-using-API/static/js/main.df6dff7d.js.map",
+    "787.13d76ca7.chunk.js.map": "/Real-time-weather-app-using-API/static/js/787.13d76ca7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96cd17a0.css",
+    "static/js/main.df6dff7d.js"
+  ]
+}
